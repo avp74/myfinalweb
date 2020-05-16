@@ -39,7 +39,7 @@ body {
 body {
     padding-top: 3rem;
     padding-bottom: 3rem;
-    color: #5a5a5a;
+    color: #794b73;
 }
 
 
@@ -103,6 +103,19 @@ body {
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
+.newrow{
+    margin-top: 10px;
+    column-count: 3;
+    column-gap: 4px;
+}
+.tryimg {
+    float: right;
+    width: 15px;
+    height: 75px;
+    margin-bottom: 0px;
+    margin-left: 400px;
+    margin-right: 340px;
+}
 #hp {
     float: right;
     margin: 50px 50px 50px 580px;
